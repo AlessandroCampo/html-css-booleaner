@@ -18,7 +18,7 @@ header {
 .logo {
     width: 210px;
     margin-top: 40px;
-    margin-left: 8px;
+    margin-left: 400px;
 }
 
 main {
@@ -28,11 +28,9 @@ main {
 
 h1 {
     margin-top: 18px;
+    font-size: 44px;
 }
 
-.subtitle1 {
-    margin-top: 4px;
-}
 
 .blue {
     color: #24ABE6;
@@ -59,7 +57,8 @@ h1 {
 
 p {
     font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
     margin-top: 25px;
 
 }
@@ -69,12 +68,16 @@ ul {
     margin-top: 40px;
     margin-bottom: 40px;
     font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
 }
 
 table {
     border-collapse: collapse;
     margin-bottom: 30px;
     font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
 }
 
 td {
@@ -126,6 +129,6 @@ footer div {
 
 main,
 footer {
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
